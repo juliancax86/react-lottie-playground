@@ -9,7 +9,6 @@ export default function App() {
   const handlePlay = () => playerRef.current.play();
   const handleStop = () => playerRef.current.stop();
   const handlePause = () => playerRef.current.pause();
-
   const defaultOptions = {
     loop: true,
     autoplay: true,
