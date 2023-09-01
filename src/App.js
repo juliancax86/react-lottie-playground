@@ -16,6 +16,7 @@ export default function App() {
     rendererSettings: {
       preserveAspectRatio: 'xMidYMid slice',
     },
+    
   };
 
   return (
