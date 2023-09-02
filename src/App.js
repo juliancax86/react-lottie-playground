@@ -13,7 +13,7 @@ export default function App() {
     loop: true,
     autoplay: true,
     animationData: LottieData,
-    
+
     rendererSettings: {
       preserveAspectRatio: 'xMidYMid slice',
     },
@@ -23,7 +23,7 @@ export default function App() {
     <div>
       <h1>Hello TTOWA!!</h1>
       <h2>1.Lottie Add</h2>
-      
+    
       <Lottie
         options={defaultOptions}
         height={300}
