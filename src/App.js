@@ -13,6 +13,7 @@ export default function App() {
     loop: true,
     autoplay: true,
     animationData: LottieData,
+    
     rendererSettings: {
       preserveAspectRatio: 'xMidYMid slice',
     },
