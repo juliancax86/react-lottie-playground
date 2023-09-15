@@ -28,6 +28,7 @@ export default function App() {
         width={300}
         isClickToPauseDisabled={true}
       />
+      
       <h2>2.Lottie Control</h2>
       <Player
         src="https://assets1.lottiefiles.com/packages/lf20_myejiggj.json"
