@@ -23,7 +23,7 @@ export default function App() {
       <h1>Hello TTOWA!!</h1>
       <h2>1.Lottie Add</h2>
       <Lottie
-    
+  
         options={defaultOptions}
         height={300}
         width={300}
