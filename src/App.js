@@ -23,12 +23,13 @@ export default function App() {
       <h1>Hello TTOWA!!</h1>
       <h2>1.Lottie Add</h2>
       <Lottie
+      
         options={defaultOptions}
         height={300}
         width={300}
         isClickToPauseDisabled={true}
       />
-      
+
       <h2>2.Lottie Control</h2>
       <Player
         src="https://assets1.lottiefiles.com/packages/lf20_myejiggj.json"
